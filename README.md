@@ -1,6 +1,6 @@
 MATE Panel Themes
 =================
-This is a complete collection of premium skins for the MATE panel and MATE Menu. It can be used in desktop environments other than MATE, but the most compatible panel layout is the traditional style of two 24px height panels on the top and bottom; alternatively there are 40px height panel images for the single panel layout.
+This is a complete collection of premium skins for the MATE Panel and MATE Menu. It can be used in desktop environments other than MATE, but the most compatible panel layout is the traditional style of two 24px height panels on the top and bottom; alternatively there are 40px height panel images for the single panel layout.
 
 ![MATE_Panel_Themes](https://github.com/OliverKurz/mate-panel-themes/raw/master/images/Preview.png)
 
